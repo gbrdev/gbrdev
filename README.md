@@ -1,4 +1,4 @@
-## Hello, friends! <img src="./assets/hello-world.gif" width="30px">
+## Hello, friends! ✌
 
 <img align='right' src='./assets/github.gif' width='200'>
 
@@ -13,10 +13,11 @@ I'm Gabriel Rodrigues, a Brazilian passionate front-end developer who loves to c
 - Front-end development using **React.js or Vue.js**
 - Server-side rendering with **Next.js**
 - State management libraries like **Redux or Vuex**
-- Mobile development using **React Native**
 - Backend development using **Node.js**
 - Loving the **JavaScript**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldev)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrdev&layout=compact)](https://github.com/gbrdev?tab=repositories)
+\
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldev)](https://github.com/gbrdev)
+\
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gbrdev&show_icons=true&theme=dracula)
