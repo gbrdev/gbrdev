@@ -14,7 +14,7 @@ I'm Gabriel Rodrigues, a Brazilian passionate front-end developer who loves to c
 - Server-side rendering with **Next.js**
 - State management libraries like **Redux or Vuex**
 - Backend development using **Node.js**
-- Loving the **JavaScript**
+- Advanced **HTML, CSS & SASS**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrdev&layout=compact)](https://github.com/gbrdev?tab=repositories)
 \
