@@ -1,7 +1,5 @@
 ## Hello, friends! ✌
 
-<img align='right' width='15%' src='./assets/bug.webp'>
-
 [![LinkedIn](https://img.shields.io/badge/Gabriel%20Rodrigues-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldev/)](https://www.linkedin.com/in/gabrieldev/)
 [![Gmail](https://img.shields.io/badge/-gabriel.desenvolve@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gabriel.desenvolve@gmail.com)](mailto:gabriel.desenvolve@gmail.com)
 
