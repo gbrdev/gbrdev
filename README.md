@@ -9,6 +9,7 @@ I'm Gabriel Rodrigues, a Brazilian passionate front-end developer who loves to c
 - State management libraries like **Redux or Vuex**
 - Backend development using **Node.js**
 - Advanced **HTML, CSS & SASS**
+
 \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrdev&layout=compact)](https://github.com/gbrdev?tab=repositories)
 \
