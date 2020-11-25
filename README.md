@@ -11,8 +11,8 @@ I'm Gabriel Rodrigues, a Brazilian passionate front-end developer who loves to c
 - Advanced **HTML, CSS & SASS**
 
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrdev&layout=compact)](https://github.com/gbrdev?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrdev&layout=compact&hide=java)](https://github.com/gbrdev?tab=repositories)
 \
-[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldev&hide_progress=true&hide=java)](#)
+[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrieldev&hide_progress=true)](#)
 \
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gbrdev&show_icons=true&theme=dracula)
