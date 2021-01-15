@@ -1,6 +1,6 @@
 ### // Hello, world!
 <a href="https://www.linkedin.com/in/gabrieldev/">
-  <img height="28" src="assets/linkedin.svg" alt="Connect with me on LinkedIn"/>
+  <img height="30" src="assets/linkedin.svg" alt="Connect with me on LinkedIn"/>
 </a>
 <a href="mailto:gabriel.desenvolve@gmail.com">
   <img height="30" src="assets/gmail.svg" alt="Send me a e-mail"/>
