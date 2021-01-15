@@ -6,7 +6,7 @@
   <img height="30" src="assets/gmail.svg" alt="Send me a e-mail"/>
 </a>
 
-##### I'm Gabriel Rodrigues, a Brazilian passionate front-end developer who loves to create new things and explore new technologies. Curious and lover of challenges that requires my creativity, logic and knowledge to find the best solution.
+### I'm Gabriel Rodrigues, a Brazilian passionate front-end developer who loves to create new things and explore new technologies. Curious and lover of challenges that requires my creativity, logic and knowledge to find the best solution.
 
 ###// Technologies
 - Front-end development using **React.js <3 Vue.js**
