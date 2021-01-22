@@ -20,7 +20,7 @@ I'm Gabriel Rodrigues, a Brazilian passionate front-end developer who loves to c
    <img
       align="center"
       height="160" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrdev&hide=java&layout=compact&theme=dracula"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrdev&layout=compact&theme=dracula"
     />
   <img   
       align="center"
