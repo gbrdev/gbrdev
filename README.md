@@ -1,4 +1,4 @@
-### // Hello, world!
+### // 👋 Hello, world!
 <a href="https://www.linkedin.com/in/gabrieldev/">
   <img height="30" src="assets/linkedin.svg" alt="Connect with me on LinkedIn"/>
 </a>
@@ -28,6 +28,9 @@ I'm Gabriel Rodrigues, a Brazilian passionate front-end developer who loves to c
        src="https://github-readme-stats.vercel.app/api?username=gbrdev&show_icons=true&theme=dracula"
     />
 </p>
+
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/gbrdev)](https://github.com/gbrdev)
 
 <!-- \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrdev&layout=compact)](https://github.com/gbrdev?tab=repositories)
