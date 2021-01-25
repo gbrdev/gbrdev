@@ -1,10 +1,7 @@
 ### // 👋 Hello, world!
-<a href="https://www.linkedin.com/in/gabrieldev/">
-  <img height="30" src="assets/linkedin.svg" alt="Connect with me on LinkedIn"/>
-</a>
-<a href="mailto:gabriel.desenvolve@gmail.com">
-  <img height="30" src="assets/gmail.svg" alt="Send me a e-mail"/>
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldev/)](https://www.linkedin.com/in/gabrieldev/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gbrdev/)](https://www.instagram.com/gbrdev/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.desenvolve@gmail.com)](mailto:gabriel.desenvolve@gmail.com)
 
 I'm Gabriel Rodrigues, a Brazilian passionate front-end developer who loves to create new things and explore new technologies. Curious and lover of challenges that requires my creativity, logic and knowledge to find the best solution.
 
