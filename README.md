@@ -1,4 +1,4 @@
-### // 👋 Hello, world!
+### 👋 Hello, world!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldev/)](https://www.linkedin.com/in/gabrieldev/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F77737?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gbrdev/)](https://www.instagram.com/gbrdev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.desenvolve@gmail.com)](mailto:gabriel.desenvolve@gmail.com)
