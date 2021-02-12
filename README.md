@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieldev/)](https://www.linkedin.com/in/gabrieldev/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F77737?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gbrdev/)](https://www.instagram.com/gbrdev/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.desenvolve@gmail.com)](mailto:gabriel.desenvolve@gmail.com)
-[![Visitors](https://komarev.com/ghpvc/?username=gbrdev&style=flat-square)]
+![Visitors](https://komarev.com/ghpvc/?username=gbrdev&style=flat-square)
 
 I'm Gabriel Rodrigues, a Brazilian passionate front-end developer who loves to create new things and explore new technologies. Curious and lover of challenges that requires my creativity, logic and knowledge to find the best solution.
 
