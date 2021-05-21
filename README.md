@@ -10,7 +10,6 @@ I'm Gabriel Rodrigues, a Brazilian passionate front-end developer who loves to c
 - Front-end development using **React.js <3 Vue.js**
 - **UI/UX** best practices and uses
 - Server-side rendering with **Next.js or Nuxt.js**
-- State management libraries like **Redux or Vuex**
 - Backend development using **Node.js**
 - Advanced **HTML, CSS & SASS**
 
